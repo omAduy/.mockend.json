@@ -1,13 +1,8 @@
 {
-    "status": "success",
-    "data": {
-        "masterdata": null,
-        "dto": {
-            "id": "appscontent1",
-            "contentName": "About Us",
-            "contentDescription": "Podquest is a learning network that helps you solve problems related to your work, hobbies, and interests. We provide you with vast amount of practical content and connect you with reliable experts who can answer your questions and difficulties.\n\nContribute in Podquest\nWe believe that everyone has their own expertise. By joining Podquest, you can also improve your learning experience by contributing to other people’s learning as an advisor. Sharing your content and discuss with learner will be a new way of learning. \n\nLearning is earning\nThe benefit of joining Podquest is not only to learn from others but also to earn values derived from this learning ecosystem.",
-            "active": true
-        }
-    },
-    "info": null
+  "name": {
+    "string": [
+      "Thor",
+      "Loki"
+    ]
+  }
 }
