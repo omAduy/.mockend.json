@@ -1,7 +1,194 @@
 {
-  "User": {
-    "title": {
-      "string": {}
-    }
-  }
+    "status": "success",
+    "data": {
+        "content": [
+            {
+                "groupingFaqId": 1,
+                "groupingFaqType": "General",
+                "masterFaq": [
+                    {
+                        "faqId": "114d28ca-af82-45e2-88e5-e9260ed00939",
+                        "question": "Test Add FAQ Panjang",
+                        "answer": "Drama ini menggunakan latar gedung apartemen bertingkat tinggi yang dikelompokkan berdasarkan status sosial. Petugas Yoon Sae Bom (Han Hyo Joo) merupakan salah satu penghuni di apartemen tersebut. Ia amat senang karena bisa menetap di apartemen barunya, karena bisa beristirahat dari kerasnya pekerjaannya sebagai anggota salah satu regu polisi khusus kota. Tak sendiri, Sae Bom tinggal bersama teman lama dan sesama perwira, Detektif Jung Yi Hyun (Park Hyung Sik). Sae Bom yakin rumah baru ini akan memberinya semua kebahagiaan yang dia inginkan.\nNamun sayang, kebahagiaan itu tidak bertahan lama. Tiba-tiba penyakit menular mewabah di apartemen tersebut. Para penghuni dilanda kepanikan dan membuat heboh seluruh kota. Demi mengurangi terjadinya penularan, mereka menutup bangunan tersebut. Mau tak mau, penduduk harus memutuskan komunikasi dari orang-orang di luar gedung. Mereka berjuang untuk memahami apa yang terjadi. Kesempatan bagi penduduk yang tidak terinfeksi untuk bertahan hidup sepenuhnya berada di tangan mereka sendiri. Bingung, terisolasi, dan ketakutan, mereka tak punya pilihan selain mencurigai satu sama lain. Saat itu, hanya itulah harapan mereka untuk selamat dari 'kiamat' tersebut. Apakah mereka benar-benar sudah saling terbuka? Bagaimana jika salah satu dari mereka menyimpan sebuah rahasia besar?",
+                        "sort": 1
+                    },
+                    {
+                        "faqId": "8bfe2e35-057d-44c6-a8f2-b69c44da8214",
+                        "question": "What is Podquest ?",
+                        "answer": "Podquest is a learning network that helps you solve the problems related to your work, hobbies, and interests",
+                        "sort": 1
+                    },
+                    {
+                        "faqId": "ac563a54-0b53-4b36-821b-d52d62e8a142",
+                        "question": "What are the features in Podquest?",
+                        "answer": "1. You can put any problems that you experience and find the related podcasts to answer your question\n2. You can listen to podcasts posted by advisor and if you need more you can call the advisor for more specific answer",
+                        "sort": 2
+                    },
+                    {
+                        "faqId": "1e033a1e-ae05-4131-8854-913c8dea0c7a",
+                        "question": "How to contribute in Podquest?",
+                        "answer": "You can ask administrator to upgrade your role as :\n1. Contributor : if you want to contribute as a podcaster\n2. Advisor : if you want to contribute as a podcaster and give advice to people through phone discussion",
+                        "sort": 3
+                    },
+                    {
+                        "faqId": "0c37afc5-ff90-427a-9780-c0d0ab725fb7",
+                        "question": "How to set a call with an Advisor?",
+                        "answer": "You need to open your selected Advisor profile and listen to at least 3 (three) his/her podcasts. Furthermore, check the schedule whether it fits your schedule and click set call. After the advisor accept your request during their schedule, you can click call to start your discussion.",
+                        "sort": 4
+                    },
+                    {
+                        "faqId": "ad9b9664-04a9-464f-8460-289ac10bdd49",
+                        "question": "Fee in podquest?",
+                        "answer": "Your company handles this stuff for you, dont worry.",
+                        "sort": 5
+                    },
+                    {
+                        "faqId": "e08b5ed8-86fa-4ae2-90cd-750c6c74138d",
+                        "question": "What are the topics that I can discuss with Advisor?",
+                        "answer": "You can discuss any topics you like as long as it is related to the Advisor’s expertise\nPodquest has several categories that you can discuss : Leading People, Wellbeing, Technology, Women Leadership, Investment, and many more",
+                        "sort": 6
+                    },
+                    {
+                        "faqId": "3073ea69-fff7-4239-b34b-a252ecdf79af",
+                        "question": "If I forget my password, where will I receive my new password?",
+                        "answer": "After you click forgot password in the log in page, we will send you an email to reset your password. you can reset your password with the new one through the link from that email.",
+                        "sort": 7
+                    },
+                    {
+                        "faqId": "0c0089e3-cdf3-4911-ac9b-13e65c6de375",
+                        "question": "How long is the duration for one session?",
+                        "answer": "The duration for one session is 30 minutes",
+                        "sort": 8
+                    },
+                    {
+                        "faqId": "8f700fac-c41b-48db-bb40-375ab1eb5534",
+                        "question": "Is it possible if I extend the session, and if it possible, how? ",
+                        "answer": "You can set another call with such advisor if you need to discuss more.",
+                        "sort": 9
+                    },
+                    {
+                        "faqId": "ff7abc90-514d-44d0-9cb8-a6c29a4945c5",
+                        "question": "How to listen to podcast offline?",
+                        "answer": "You need to be online to access Podquest’ contents",
+                        "sort": 10
+                    },
+                    {
+                        "faqId": "2ca8c7f7-4cfa-477c-b3fd-08c0e499511a",
+                        "question": "How to create playlist?",
+                        "answer": "We dont have playlist feature, if you need it we can build it for you",
+                        "sort": 11
+                    },
+                    {
+                        "faqId": "bc923038-77cf-49aa-aed7-a0783639914e",
+                        "question": "Where to find recommendation podcast based on similar topics that I like",
+                        "answer": "After you finish listening to podcast, you will get the recommendation based on topic that you like",
+                        "sort": 12
+                    },
+                    {
+                        "faqId": "074e1f8e-ae8b-4bc2-a15f-1757804ef157",
+                        "question": "Is it possible to request topic to the advisor?",
+                        "answer": "Of course, you can ask to directly to advisor on which topic that you would like to discuss",
+                        "sort": 13
+                    },
+                    {
+                        "faqId": "947e4b64-bfc2-43d0-b34d-68881b6e474f",
+                        "question": "Why can’t I set call with advisor?",
+                        "answer": "Before setting up call with advisor, you need to listen to at least 3 podcasts of the advisor. This is to make sure that you get the right advisor.",
+                        "sort": 14
+                    },
+                    {
+                        "faqId": "4a13e499-28b9-47aa-88ea-624a79fd41b9",
+                        "question": "How to see advisor schedule?",
+                        "answer": "You can click schedule icon in advisor’s profile",
+                        "sort": 15
+                    },
+                    {
+                        "faqId": "7fae266d-e49f-45d4-b629-e0a24207380c",
+                        "question": "How to see advisor rating?",
+                        "answer": "You can see rating in advisor’s profile",
+                        "sort": 16
+                    },
+                    {
+                        "faqId": "b907d87d-63fa-472c-ad49-5388fc01777e",
+                        "question": "Where can I find my previously listened Podquest?",
+                        "answer": "You can see it in My Podquest menu",
+                        "sort": 17
+                    },
+                    {
+                        "faqId": "3a25fa93-cf28-4314-af73-2602bd4e6caa",
+                        "question": "How to cancel call with advisor?",
+                        "answer": "You can’t cancel the call that has been accepted by the advisor.",
+                        "sort": 18
+                    }
+                ]
+            },
+            {
+                "groupingFaqId": 4,
+                "groupingFaqType": "Podquest for Advisors",
+                "masterFaq": [
+                    {
+                        "faqId": "aa0059fb-804a-466c-b424-dfe5143e42fa",
+                        "question": "How to cancel call with user?",
+                        "answer": "You can’t cancel your call appointment with user once the user’s call request has been accepted",
+                        "sort": 1
+                    },
+                    {
+                        "faqId": "1919922c-bd22-4611-949b-28cf7ad05c64",
+                        "question": "How to change advisor’s schedule?",
+                        "answer": "You can edit your schedule in advisor’s schedule menu in your profile",
+                        "sort": 2
+                    },
+                    {
+                        "faqId": "e8beb71b-5c5d-4074-ba7f-a234997b5d2d",
+                        "question": "Where is Podquest available?",
+                        "answer": "You can download in Appstore or Googleplay Store",
+                        "sort": 3
+                    },
+                    {
+                        "faqId": "59b2fc94-c84c-45d3-be7d-927c91f33f3b",
+                        "question": "Where can i see my Podquest feedback?",
+                        "answer": "You can see in the feedback section of your podcast",
+                        "sort": 4
+                    }
+                ]
+            },
+            {
+                "groupingFaqId": 5,
+                "groupingFaqType": "Podquest for Contributors",
+                "masterFaq": [
+                    {
+                        "faqId": "a9117a4e-bfb2-4539-b90f-41cf30b93265",
+                        "question": "How to be a Contributor ?",
+                        "answer": "ut placerat orci nulla pellentesque dignissim enim sit amet venenatis",
+                        "sort": 1
+                    }
+                ]
+            },
+            {
+                "groupingFaqId": 3,
+                "groupingFaqType": "Podquest for Users",
+                "masterFaq": [
+                    {
+                        "faqId": "02e41599-2810-4aea-9248-93a0fe8ab5c0",
+                        "question": "How to use podquest ?",
+                        "answer": "tristique risus nec feugiat in fermentum posuere urna nec tincidunt",
+                        "sort": 1
+                    },
+                    {
+                        "faqId": "25072bf8-d562-453a-8706-9293a51fd474",
+                        "question": "Can i download the podcast ?",
+                        "answer": "vitae tortor condimentum lacinia quis vel eros donec ac odio",
+                        "sort": 2
+                    }
+                ]
+            }
+        ],
+        "totalElements": 4,
+        "maxPage": 0,
+        "page": 0,
+        "size": 20,
+        "last": true,
+        "offset": 0
+    },
+    "info": null
 }
